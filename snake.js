@@ -1,3 +1,4 @@
+// made using chatgpt, it sucks, I know.
 // Get the canvas and its context
 const canvas = document.getElementById("gameCanvas");
 const ctx = canvas.getContext("2d");
