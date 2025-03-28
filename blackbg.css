@@ -1,0 +1,5 @@
+/* All this does is change the bg color to black lol */
+body {
+    background-color: black;
+    color: white;
+}
