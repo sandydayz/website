@@ -9,7 +9,7 @@ calculates an input expression.
 //variables
 let expression = undefined;
 let parsed = [];
-let numbers = [];
+let numbers = ["1"];
 let syntaxes = [];
 let spaces = [];
 let currentCharacter = undefined;
